@@ -1,4 +1,5 @@
 body {
+    background: #1e1f24;
     color: blueviolet;
     text-align: center;
     font-family: Courier;
@@ -16,11 +17,18 @@ body {
     padding: 0.5em
 }
 
+#cabecera #logo {
+    width: 20px;
+    vertical-align: ;
+}
+
 #container {
     width: 70%;
     padding: 0;
     text-align: left;
     border: 1px solid #000;
     margin: 0 auto;
+    background: white;
+    padding: 5px;
 }
 
